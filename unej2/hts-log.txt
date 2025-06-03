@@ -1,0 +1,32 @@
+HTTrack3.49-5 launched on Mon, 02 Jun 2025 18:23:08 at https://unej.ac.id/ unej/
+(httrack https://unej.ac.id/ -o unej/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:23:55	Error: 	Exit requested by shell or user
+18:23:56	Warning: 	File not added due to mirror cancel: https://unej.ac.id/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1748149297
+18:23:56	Warning: 	File not added due to mirror cancel: https://unej.ac.id/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1748149297
+18:23:56	Warning: 	File not added due to mirror cancel: https://unej.ac.id/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1748149297
+18:23:56	Warning: 	File not added due to mirror cancel: https://unej.ac.id/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1748149297
+18:23:56	Warning: 	File not added due to mirror cancel: unej/robots.txt
+18:23:56	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link unej/ (from primary/primary)
+18:23:56	Error: 	"Not Found" (404) at link https://unej.ac.id/font/fontawesome-webfont.woff2?v=4.7.0 (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: https://unej.ac.id/term-of-use/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/term-of-use/ (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: https://unej.ac.id/privacy-police/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/privacy-police/ (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: https://unej.ac.id/code-of-conduct/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/code-of-conduct/ (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: https://unej.ac.id/Trident/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/Trident/ (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: https://unej.ac.id/Edge/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/Edge/ (from https://unej.ac.id/)
+18:24:02	Error: 	"mirror stopped by user" (-1) at link https://unej.ac.id/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1748149297 (from https://unej.ac.id/)
+18:24:02	Warning: 	File not added due to mirror cancel: unej/
+18:24:02	Error: 	"mirror stopped by user" (-1) at link unej/ (from primary/primary)
+
+HTTrack Website Copier/3.49-5 mirror complete in 54 seconds : 89 links scanned, 78 files written (6106986 bytes overall) [1907610 bytes received at 35326 bytes/sec], 5806626 bytes transferred using HTTP compression in 74 files, ratio 25%, 16.4 requests per connection
+(9 errors, 12 warnings, 0 messages)
